@@ -1,0 +1,4 @@
+# HousingPrice_regression
+
+This report delivers the statistical analysis based on the data provided by Century 21(The original data contains 1,460 rows and 81 columns spanning 25 neighborhoods in Ames Iowa. Data and Description: https://www.kaggle.com/c/house-prices-advanced-regression-techniques) and the analysis result of how the final sales price is related to the square footage of the living area and the neighborhood the house is located in.
+The analysis is focusing on sales price of Names, Edwards and BrkSide neighborhoods. Therefore, we have rearranged the original data set down to 383 rows for Brookside, Edwards, and North Ames only. We also achieve a regression model for the rearranged data to give the best fit of the relationship between the final sales price and the square footage of the living area and the neighborhood the house is located in.
